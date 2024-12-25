@@ -1,3 +1,5 @@
 0.0.0.0 vevlysingar.fo
 0.0.0.0 kunning.vevlysingar.fo
 0.0.0.0 vevlysingar.shouthorn.com
+0.0.0.0 shouthorn.com
+0.0.0.0 tilbod.shouthorn.com
